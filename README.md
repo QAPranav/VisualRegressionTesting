@@ -19,9 +19,9 @@ Before running the BackstopJS tests, ensure you have the following installed on 
 npm install ```
 
 
+## Add own Cookies file 
 
-
-
+{} cookies.json 
 
 # BackstopJS Configuration
 
