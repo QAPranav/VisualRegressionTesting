@@ -1,0 +1,23 @@
+{
+  "name": "visualregressiontesting",
+  "version": "1.0.0",
+  "description": "Powerful quality assurance technique used in web development to detect unintended visual changes between different versions of a web application or website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BackstopJS",
+    "Visual",
+    "Testing",
+    "Regression",
+    "Testing"
+  ],
+  "author": "Pranav Pothiwala",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^6.2.2",
+    "minimist": "^1.2.8",
+    "puppeteer": "^20.8.2"
+  }
+}
