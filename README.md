@@ -15,8 +15,9 @@ Before running the BackstopJS tests, ensure you have the following installed on 
 
 2. Install the required dependencies using npm:
 
-    ```bash
-    npm install ```
+```bash
+npm install
+```
 
 
 ## Add own Cookies file 
@@ -41,15 +42,21 @@ To run the BackstopJS tests, you can use the following commands:
 
 
 # Backstop Reference
-    ``` bash npm run backstop:reference -- --config=backstop.config.js ```
+```bash 
+npm run backstop:reference -- --config=backstop.config.js 
+```
 
 # Backstop Test
-    ```bash npm run backstop:test -- --config=backstop.config.js```
+```bash 
+npm run backstop:test -- --config=backstop.config.js
+```
 
 
 # Command-line Arguments
-    ```bashbackstop reference --config=backstop-settings.js --pathFile=gethelp --refHost=https://example.com/```
-    ```backstop:test -- --config=backstop-settings.js --pathFile=gethelp --testHost=https://preview-example.com```
+```bash
+backstop reference --config=backstop-settings.js --pathFile=gethelp --refHost=https://example.com/
+backstop:test -- --config=backstop-settings.js --pathFile=gethelp --testHost=https://preview-example.com
+```
 
 This command will run BackstopJS in test mode, using the configuration defined in the backstop.config.js file. The --pathFile option specifies the path file to use (e.g., gethelp.js), and the --testHost option sets the test URL to capture screenshots from.
 
