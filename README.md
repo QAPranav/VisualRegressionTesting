@@ -8,10 +8,14 @@ Before running the BackstopJS tests, ensure you have the following installed on 
 
 - Node.js: https://nodejs.org/
 - npm (Node Package Manager): This comes bundled with Node.js
+- git 
 
 ## Installation
 
 1. Clone this repository to your local machine.
+```bash
+git clone https://github.com/QAPranav/VisualRegressionTesting.git
+```
 
 2. Install the required dependencies using npm:
 
