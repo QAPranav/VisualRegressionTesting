@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_oxford_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_oxford_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_oxford_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_oxford_0_document_0_laptop.png",
         "label": "/get_help/local_services/oxford",
@@ -21,16 +21,16 @@ report({
           },
           "rawMisMatchPercentage": 99.56876929012346,
           "misMatchPercentage": "99.57",
-          "analysisTime": 433
+          "analysisTime": 1150
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_oxford_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_oxford_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_norwich_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_norwich_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_norwich_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_norwich_0_document_0_laptop.png",
         "label": "/get_help/local_services/norwich",
@@ -47,16 +47,16 @@ report({
           },
           "rawMisMatchPercentage": 43.072019397702995,
           "misMatchPercentage": "43.07",
-          "analysisTime": 1410
+          "analysisTime": 2019
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_norwich_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_norwich_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_newcastle_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_newcastle_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_newcastle_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_newcastle_0_document_0_laptop.png",
         "label": "/get_help/local_services/newcastle",
@@ -71,18 +71,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 43.071059528579056,
+          "rawMisMatchPercentage": 43.07141426282051,
           "misMatchPercentage": "43.07",
-          "analysisTime": 2207
+          "analysisTime": 5147
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_newcastle_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_newcastle_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_slough_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_slough_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_slough_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_slough_0_document_0_laptop.png",
         "label": "/get_help/local_services/slough",
@@ -97,18 +97,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 99.56876929012346,
-          "misMatchPercentage": "99.57",
-          "analysisTime": 420
+          "rawMisMatchPercentage": 99.51871141975307,
+          "misMatchPercentage": "99.52",
+          "analysisTime": 635
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_slough_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_slough_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_sheffield_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_sheffield_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_sheffield_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_sheffield_0_document_0_laptop.png",
         "label": "/get_help/local_services/sheffield",
@@ -125,16 +125,16 @@ report({
           },
           "rawMisMatchPercentage": 42.847914175634386,
           "misMatchPercentage": "42.85",
-          "analysisTime": 2460
+          "analysisTime": 3051
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_sheffield_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_sheffield_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_merseyside_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_merseyside_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_merseyside_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_merseyside_0_document_0_laptop.png",
         "label": "/get_help/local_services/merseyside",
@@ -149,18 +149,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 45.86353011234357,
+          "rawMisMatchPercentage": 45.86361899175199,
           "misMatchPercentage": "45.86",
-          "analysisTime": 2561
+          "analysisTime": 3396
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_merseyside_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_merseyside_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_manchester_specialists_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_manchester_specialists_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_manchester_specialists_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_manchester_specialists_0_document_0_laptop.png",
         "label": "/get_help/local_services/manchester/specialists",
@@ -175,18 +175,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 42.26150992531446,
-          "misMatchPercentage": "42.26",
-          "analysisTime": 2089
+          "rawMisMatchPercentage": 44.76140756027254,
+          "misMatchPercentage": "44.76",
+          "analysisTime": 3957
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_manchester_specialists_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_manchester_specialists_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_manchester_services_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_manchester_services_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_manchester_services_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_manchester_services_0_document_0_laptop.png",
         "label": "/get_help/local_services/manchester/services",
@@ -203,16 +203,16 @@ report({
           },
           "rawMisMatchPercentage": 37.97132565053574,
           "misMatchPercentage": "37.97",
-          "analysisTime": 1640
+          "analysisTime": 1737
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_manchester_services_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_manchester_services_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_manchester_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_manchester_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_manchester_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_manchester_0_document_0_laptop.png",
         "label": "/get_help/local_services/manchester",
@@ -229,16 +229,16 @@ report({
           },
           "rawMisMatchPercentage": 40.233868201097806,
           "misMatchPercentage": "40.23",
-          "analysisTime": 2182
+          "analysisTime": 1275
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_manchester_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_manchester_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_london_newham_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_london_newham_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_london_newham_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_london_newham_0_document_0_laptop.png",
         "label": "/get_help/local_services/london/newham",
@@ -255,16 +255,16 @@ report({
           },
           "rawMisMatchPercentage": 39.349206167642755,
           "misMatchPercentage": "39.35",
-          "analysisTime": 1292
+          "analysisTime": 1263
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_london_newham_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_london_newham_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_london_islington_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_london_islington_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_london_islington_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_london_islington_0_document_0_laptop.png",
         "label": "/get_help/local_services/london/islington",
@@ -279,18 +279,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 39.17703018707483,
+          "rawMisMatchPercentage": 39.17896622934888,
           "misMatchPercentage": "39.18",
-          "analysisTime": 2751
+          "analysisTime": 4572
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_london_islington_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_london_islington_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_london_hackney_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_london_hackney_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_london_hackney_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_london_hackney_0_document_0_laptop.png",
         "label": "/get_help/local_services/london/hackney",
@@ -307,16 +307,16 @@ report({
           },
           "rawMisMatchPercentage": 40.221134960718295,
           "misMatchPercentage": "40.22",
-          "analysisTime": 1622
+          "analysisTime": 2359
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_london_hackney_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_london_hackney_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_london_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_london_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_london_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_london_0_document_0_laptop.png",
         "label": "/get_help/local_services/london",
@@ -333,16 +333,16 @@ report({
           },
           "rawMisMatchPercentage": 40.100009324878776,
           "misMatchPercentage": "40.10",
-          "analysisTime": 2734
+          "analysisTime": 2850
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_london_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_london_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_devon_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_devon_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_devon_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_devon_0_document_0_laptop.png",
         "label": "/get_help/local_services/devon",
@@ -359,16 +359,16 @@ report({
           },
           "rawMisMatchPercentage": 41.96099238875878,
           "misMatchPercentage": "41.96",
-          "analysisTime": 2243
+          "analysisTime": 4245
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_devon_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_devon_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_bristol_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_bristol_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_bristol_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_bristol_0_document_0_laptop.png",
         "label": "/get_help/local_services/bristol",
@@ -385,16 +385,16 @@ report({
           },
           "rawMisMatchPercentage": 45.8641300483504,
           "misMatchPercentage": "45.86",
-          "analysisTime": 2425
+          "analysisTime": 3370
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_bristol_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_bristol_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_bournemouth_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_bournemouth_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_bournemouth_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_bournemouth_0_document_0_laptop.png",
         "label": "/get_help/local_services/bournemouth",
@@ -411,16 +411,16 @@ report({
           },
           "rawMisMatchPercentage": 45.864796643913536,
           "misMatchPercentage": "45.86",
-          "analysisTime": 655
+          "analysisTime": 2474
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_bournemouth_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_bournemouth_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_blackburn_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_blackburn_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_blackburn_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_blackburn_0_document_0_laptop.png",
         "label": "/get_help/local_services/blackburn",
@@ -435,18 +435,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 47.98103757821388,
-          "misMatchPercentage": "47.98",
-          "analysisTime": 1513
+          "rawMisMatchPercentage": 45.862463559442546,
+          "misMatchPercentage": "45.86",
+          "analysisTime": 3519
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_blackburn_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_blackburn_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_birmingham_sifa_fireside_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_birmingham_sifa_fireside_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_birmingham_sifa_fireside_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_birmingham_sifa_fireside_0_document_0_laptop.png",
         "label": "/get_help/local_services/birmingham_sifa_fireside",
@@ -456,23 +456,23 @@ report({
         "expect": 0,
         "viewportLabel": "laptop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -18
+            "height": 0
           },
-          "rawMisMatchPercentage": 83.0692078228688,
-          "misMatchPercentage": "83.07",
-          "analysisTime": 1850
+          "rawMisMatchPercentage": 83.65966291407867,
+          "misMatchPercentage": "83.66",
+          "analysisTime": 1749
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_birmingham_sifa_fireside_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_birmingham_sifa_fireside_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_birmingham_newtown_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_birmingham_newtown_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_birmingham_newtown_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_birmingham_newtown_0_document_0_laptop.png",
         "label": "/get_help/local_services/birmingham_newtown",
@@ -482,23 +482,23 @@ report({
         "expect": 0,
         "viewportLabel": "laptop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -214
+            "height": 0
           },
-          "rawMisMatchPercentage": 72.54920522636485,
-          "misMatchPercentage": "72.55",
-          "analysisTime": 2072
+          "rawMisMatchPercentage": 83.65966291407867,
+          "misMatchPercentage": "83.66",
+          "analysisTime": 1606
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_birmingham_newtown_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_birmingham_newtown_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_birmingham_gateway_house_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_birmingham_gateway_house_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_birmingham_gateway_house_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_birmingham_gateway_house_0_document_0_laptop.png",
         "label": "/get_help/local_services/birmingham_gateway_house",
@@ -513,18 +513,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 45.30293053799691,
-          "misMatchPercentage": "45.30",
-          "analysisTime": 646
+          "rawMisMatchPercentage": 45.30784695884253,
+          "misMatchPercentage": "45.31",
+          "analysisTime": 1686
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_birmingham_gateway_house_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_birmingham_gateway_house_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_local_services_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_local_services_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_local_services_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_local_services_0_document_0_laptop.png",
         "label": "/get_help/local_services",
@@ -534,23 +534,23 @@ report({
         "expect": 0,
         "viewportLabel": "laptop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -18
           },
-          "rawMisMatchPercentage": 85.88886947550586,
-          "misMatchPercentage": "85.89",
-          "analysisTime": 530
+          "rawMisMatchPercentage": 86.70210995740149,
+          "misMatchPercentage": "86.70",
+          "analysisTime": 744
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_local_services_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_local_services_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_helpline_donate_button_test_four_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_helpline_donate_button_test_four_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_helpline_donate_button_test_four_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_helpline_donate_button_test_four_0_document_0_laptop.png",
         "label": "/get_help/helpline/donate_button_test_four",
@@ -563,20 +563,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -558
+            "height": -540
           },
-          "rawMisMatchPercentage": 58.90554464608162,
-          "misMatchPercentage": "58.91",
-          "analysisTime": 437
+          "rawMisMatchPercentage": 59.641229029905176,
+          "misMatchPercentage": "59.64",
+          "analysisTime": 674
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_helpline_donate_button_test_four_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_helpline_donate_button_test_four_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_helpline_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_helpline_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_helpline_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_helpline_0_document_0_laptop.png",
         "label": "/get_help/helpline",
@@ -586,23 +586,23 @@ report({
         "expect": 0,
         "viewportLabel": "laptop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -294
           },
-          "rawMisMatchPercentage": 48.43250281531532,
-          "misMatchPercentage": "48.43",
-          "analysisTime": 469
+          "rawMisMatchPercentage": 45.002423926014316,
+          "misMatchPercentage": "45.00",
+          "analysisTime": 820
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_helpline_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_helpline_0_document_0_laptop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\2023-7-18_reference\\shelter__get_help_0_document_0_laptop.png",
-        "test": "..\\2023-7-18_test\\20230718-125630\\shelter__get_help_0_document_0_laptop.png",
+        "test": "..\\2023-7-18_test\\20230718-163511\\shelter__get_help_0_document_0_laptop.png",
         "selector": "document",
         "fileName": "shelter__get_help_0_document_0_laptop.png",
         "label": "/get_help",
@@ -612,16 +612,16 @@ report({
         "expect": 0,
         "viewportLabel": "laptop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 18
           },
-          "rawMisMatchPercentage": 57.89958969812693,
-          "misMatchPercentage": "57.90",
-          "analysisTime": 379
+          "rawMisMatchPercentage": 58.45596926713949,
+          "misMatchPercentage": "58.46",
+          "analysisTime": 654
         },
-        "diffImage": "..\\2023-7-18_test\\20230718-125630\\failed_diff_shelter__get_help_0_document_0_laptop.png"
+        "diffImage": "..\\2023-7-18_test\\20230718-163511\\failed_diff_shelter__get_help_0_document_0_laptop.png"
       },
       "status": "fail"
     }

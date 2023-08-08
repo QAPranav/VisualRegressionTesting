@@ -1,3 +1,115 @@
 [
- 
-]
+    {
+      "name": "_gcl_au",
+      "value": "1.1.485527919.1690474799",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1698250799,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "CookieControl",
+      "value": "{\"necessaryCookies\":[\"DntSession\",\"has_js\",\"SnapABugChatSession\",\"SnapABugNoProactiveChat\",\"SnapABugChatPoll\",\"SnapABugChatView\",\"SnapABugBanned\",\"SnapABugChatWindow\",\"SnapABugMinimizeStashCookie\",\"SnapABugAgentAvatar\",\"SnapABugApproval\",\"SnapABugChatMessage\",\"SnapABugHistory\",\"SnapABugRef\",\"SnapABugUserAlias\",\"SnapABugUserEmail\",\"SnapABugVisit\",\"_GRECAPTCHA\",\"_secure_session_id\",\"_shopify_country\",\"_shopify_m\",\"_shopify_tm\",\"_shopify_tw\",\"_storefront_u\",\"_tracking_consent\",\"c\",\"cart\",\"cart_currency\",\"cart_sig\",\"cart_ts\",\"cart_ver\",\"checkout\",\"checkout_token\",\"dynamic_checkout_shown_on_cart\",\"hide_shopify_pay_for_checkout\",\"keep_alive\",\"master_device_id\",\"previous_step\",\"remember_me\",\"secure_customer_sig\",\"shopify_pay\",\"shopify_pay_redirect\",\"storefront_digest\",\"tracked_start_checkout\",\"javascript\",\"starvale_session\",\"webform-*\",\"_landing_page\",\"_orig_referrer\",\"exp_*\",\"__stripe_sid\",\"__stripe_mid\",\"dnt_amount\",\"dnt_coords\",\"checkout_one_experiment\",\"checkout_session_lookup\",\"checkout_session_token_*\",\"_checkout_queue_checkout_token\",\"_checkout_queue_token\",\"preview_theme\",\"SSESSed*\"],\"optionalCookies\":{\"functional\":\"accepted\",\"analytics\":\"accepted\",\"marketing\":\"accepted\"},\"statement\":{},\"consentDate\":1690474799060,\"consentExpiry\":365,\"interactedWith\":true,\"user\":\"4DEFF39E-5D5E-4493-98B2-89053FC861DE\"}",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1722010799,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "6eab74b02c9911eeb2e10bb2af89fc0b",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1690561199,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_uetvid",
+      "value": "6eabef002c9911ee8dba8969fa4619cb",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1724170799,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1690474799461.2f81053a-4741-4c90-81d0-0cbdae9d4ee6",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1698250799,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_scid",
+      "value": "9f9c3fe3-a6da-4e9b-b116-c59dd989bc55",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1724661497,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "9f9c3fe3-a6da-4e9b-b116-c59dd989bc55",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1724661497,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1690474799501.158672166",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1698250800,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1724170799,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_ttp",
+      "value": "OQ_YDmIxksL119EQr1jUAJoQyc0",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1724170799,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1URTFPVFUzWVdNdE1EYzFOaTAwTnpWaUxUbGxZamt0WWpFMk1qRTVOVFppT1dJMg",
+      "domain": ".chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1722010799,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "outbrain_cid_fetch",
+      "value": "true",
+      "domain": "chore-env-vars--shelter-website.netlify.app",
+      "path": "/",
+      "expires": 1690475099,
+      "httpOnly": false,
+      "secure": false
+    }
+  ]

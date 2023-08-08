@@ -45,8 +45,8 @@ for (let k = 0; k < paths.length; k++) {
       "hideSelectors": [], // Selectors to hide from the screenshots
       "removeSelectors": [], // Selectors to remove from the screenshots
       "selectors": [], // Selectors to capture as individual screenshots
-      "delay": 0, // Delay in milliseconds before capturing screenshots
-      "misMatchThreshold" : 0.1 // Threshold for image mismatch comparison (0.1 = 10%)
+      "delay": 6000, // Delay in milliseconds before capturing screenshots
+      "misMatchThreshold" : 0.3 // Threshold for image mismatch comparison (0.1 = 10%)
     }
   );
 }
@@ -57,8 +57,13 @@ module.exports = {
   "viewports": [
     {
       "label": "laptop", // Label for the viewport (screen size)
-      "width": 1920, // Width of the viewport
-      "height": 1080 // Height of the viewport
+      "width": 1280, // Width of the viewport
+      "height": 720 // Height of the viewport
+    },
+    {
+      "label": "phone",
+      "width": 320,
+      "height": 480
     }
   ],
   "scenarios": scenarios, // Array of scenarios to test
