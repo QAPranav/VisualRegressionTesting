@@ -8,10 +8,14 @@ Before running the BackstopJS tests, ensure you have the following installed on 
 
 - Node.js: https://nodejs.org/
 - npm (Node Package Manager): This comes bundled with Node.js
+- git 
 
 ## Installation
 
 1. Clone this repository to your local machine.
+```bash
+git clone https://github.com/QAPranav/VisualRegressionTesting.git
+```
 
 2. Install the required dependencies using npm:
 
@@ -55,7 +59,7 @@ npm run backstop:test -- --config=backstop.config.js
 # Command-line Arguments
 ```bash
 backstop reference --config=backstop-settings.js --pathFile=gethelp --refHost=https://example.com/
-backstop:test --config=backstop-settings.js --pathFile=gethelp --testHost=https://preview-example.com
+backstop:test -- --config=backstop-settings.js --pathFile=gethelp --testHost=https://preview-example.com
 ```
 
 This command will run BackstopJS in test mode, using the configuration defined in the backstop.config.js file. The --pathFile option specifies the path file to use (e.g., gethelp.js), and the --testHost option sets the test URL to capture screenshots from.
